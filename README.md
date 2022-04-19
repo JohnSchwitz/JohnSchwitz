@@ -6,9 +6,16 @@ Hubble Space telescope image of the **Crab Nebula**, the remnants of **SN 1054**
   </body>
 </html>
 
-I spent several months in 2021 reviewing my "first love" General Relativity. My video presentation is viewable in the Presentation Repository. This work boosted my Data Science when I investigated the software for detecting gravitational waves. It uses Spectral Analysis and Deep Learning which is a leap above of the current financial work on Volatility. Volatility forecasting with GARCH, Spectral, and Neural Network Models. I developed a Data Science On-line curriculum for ‘technically savvy’ veterans
+I spent several months in 2021 reviewing my "first love" General Relativity. My video presentation is viewable in the Presentation Repository. I leveraged this work to investigate software for detecting gravitational waves. Gravitation waves were first detected in 2015 resulting in a 2017 Nobel Prize in Physics.  
 
-Principal Data Scientist leading a team developing Transformer Models and Transfer Learning for Municipal Bonds, Mortgage Processing, and Limited Partnership Agreements.
+This investigation boosted my Machine Learning work on Volatility. Ge's 2022 ACM Systematic Review of Volatility Forecasting found a significant lag between "state of the art" ML and financial approaches for Volatility Forecasting. 
+
+The software to filter gravitational waves from background noise is PyCBC. Its components {FFTs (Fast Fourier Transforms for Spectral Analysis), Signal Processing, High Pass Filters, and Time and Frequency Domain Analysis} are advanced constituents for performing Volability Analysis. I am deploying simplified code in a Repository. This code uses Spectral Analysis and Deep Learning Convolution Neural Networks (EfficientNet v2) which is a leap above of the current financial work on Volatility. 
+
+There are additional links to my Presentations and Data Science Course in the Repositories below.
+
+  1) My Data Science Course for ‘technically savvy’ veterans, and
+  2) My work leading a team developing Transformer Models and Transfer Learning for Municipal Bonds, Mortgage Processing, and Limited Partnership Agreements.
 
 
 
