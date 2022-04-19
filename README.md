@@ -10,7 +10,7 @@ I spent several months in 2021 reviewing my "first love" General Relativity. My 
 
 This investigation boosted my Machine Learning work on Volatility. Ge's 2022 ACM Systematic Review of Volatility Forecasting found a significant lag between "state of the art" ML and financial approaches for Volatility Forecasting. 
 
-The software to filter gravitational waves from background noise is PyCBC. Its components {FFTs (Fast Fourier Transforms for Spectral Analysis), Signal Processing, High Pass Filters, and Time and Frequency Domain Analysis} are advanced constituents for performing Volability Analysis. I am deploying simplified code in a Repository. This code uses Spectral Analysis and Deep Learning Convolution Neural Networks (EfficientNet v2) which is a leap above of the current financial work on Volatility. 
+The software to filter gravitational waves from background noise is PyCBC. Its components {FFTs (Fast Fourier Transforms for Spectral Analysis), Signal Processing, High Pass Filters, and Time and Frequency Domain Analysis} are advanced constituents for performing Volatility Analysis. I am deploying simplified code in a Repository. This code uses Spectral Analysis and Deep Learning Convolution Neural Networks (EfficientNet v2) which is a leap above of the current financial work on Volatility. 
 
 There are additional links to my Presentations and Data Science Course in the Repositories below.
 
