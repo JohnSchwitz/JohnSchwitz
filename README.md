@@ -1,24 +1,6 @@
-### Hi there 👋
 <html style="height: 100%;">
   <head>_</head>
   <body style="margin: 0px; backgournd: #0e0e0e; height: 100%">
-    <img style="display: block;-webkit-user-select:none;margin: auto;curson:z omm-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;"src="https://user-images.githubusercontent.com/16724588/164092513-bb503750-3c9e-4e07-bda6-6f2a3dc1fe0d.jpg" width="8082" height="122">
+    <img style="display: block;-webkit-user-select:none;margin: auto;curson:z omm-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;"src="https://user-images.githubusercontent.com/16724588/164102368-37ae11c2-3e46-47af-ab16-90e7c8472953.jpg" width="1024" height="128">
   </body>
-  </html>
-<!--
-**JohnSchwitz/JohnSchwitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img >
-![Crab_Nebula2](https://user-images.githubusercontent.com/16724588/164092513-bb503750-3c9e-4e07-bda6-6f2a3dc1fe0d.jpg)
+</html>
