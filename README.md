@@ -6,7 +6,7 @@ Hubble Space telescope image of the **Crab Nebula**, the remnants of **SN 1054**
   </body>
 </html>
 
-I spent several months in 2021 reviewing my "first love" General Relativity. My video presentation is viewable in the Presentation Repository. I leveraged this work to investigate software for detecting gravitational waves. Gravitation waves were first detected in 2015 resulting in a 2017 Nobel Prize in Physics.  
+I spent several months in 2021 reviewing my "first love" General Relativity. My video presentation is viewable in the Gravitational Wave Repository. I leveraged this work to investigate software for detecting gravitational waves. Gravitation waves were first detected in 2015 resulting in a 2017 Nobel Prize in Physics.  
 
 This investigation boosted my Machine Learning work on Volatility. Ge's 2022 ACM Systematic Review of Volatility Forecasting found a significant lag between "state of the art" ML and financial approaches for Volatility Forecasting. 
 
