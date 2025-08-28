@@ -1,12 +1,19 @@
 Hubble Space telescope image of the **Crab Nebula**, the remnants of **SN 1054** a supernova observed by **Chinese astronomers** in 1054.
 <html style="height: 100%;">
   <head></head>
-  <body style="margin: 0px; backgournd: #0e0e0e; height: 100%">
-    <img style="display: block;-webkit-user-select:none;margin: auto;curson:z omm-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;"src="https://user-images.githubusercontent.com/16724588/164102368-37ae11c2-3e46-47af-ab16-90e7c8472953.jpg" width="1024" height="128">
+  <body style="margin: 0px; backgournd: #0e0e0e; height: 50%">
+    <img style="display: block;-webkit-use![HazelDragon](https://github.com/user-attachments/assets/2e0d3e67-25fb-4225-9b41-9ae2e405d6b6)r-select:none;margin: auto;curson:z omm-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms; width="512" height="128">
   </body>
 </html>
 
 I spent several months in 2021 reviewing my "first love" General Relativity. My video presentation is viewable in the Gravitational Wave Repository. 
+
+
+
+![HazelDragon](https://github.com/user-attachments/assets/2e0d3e67-25fb-4225-9b41-9ae2e405d6b6)
+
+
+
 
 This investigation boosted my Machine Learning work on Volatility. Ge's 2022 ACM Systematic Review of Volatility Forecasting found a significant lag between "state of the art" ML and financial approaches for Volatility Forecasting. 
 
