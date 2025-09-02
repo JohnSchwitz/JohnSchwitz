@@ -13,4 +13,4 @@
 </table>
 
 <!-- All content below this line will appear underneath the image and its description -->
-<p>I am a <strong>turnaround AI Innovator</strong> with experience "righting" corporate AI Initiatives, and <strong>QuantFinPhysics</strong> integrating AI into finance using the Julia language. Please, only contact from corporate Principals.</p>
+<p>I am a <strong>turnaround AI Innovator</strong> with experience "righting" corporate AI Initiatives, and <strong>QuantFinPhysics</strong> integrating AI into finance using the Julia language. Please, only contact from corporate Principals. My rate is $230/hr.</p>
